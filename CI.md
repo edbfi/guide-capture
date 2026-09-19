@@ -23,7 +23,7 @@ The encrypted live capture workflow and pinned Android environment require their
 existing manual procedure. There is no application build or dependency lock to
 invent for these standalone tools; static Python typing is a remaining gap.
 
-Shared actions, workflows and presets use immutable `v3.0.0` references.
+Shared actions, workflows and presets use immutable `v3.0.1` references.
 Renovate is the sole ongoing dependency merge owner. Direct automerge remains
 explicitly disabled, including matching package rules, until the hosted rollout
 proves native Renovate operation behind complete required CI. The legacy Actions
