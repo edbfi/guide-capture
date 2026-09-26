@@ -116,5 +116,3 @@ exit codes, so pick the matching one rather than `1`:
   touching `login-ishoj`, `unlock-os2faktor`, `.env` handling, or `lib/web_tap.mjs`.
 - `docs/status-bar-fallback.md` — why demo mode is reported unsupported (`live-short-run`). Read
   when status bars differ within a capture set or after a system-image update.
-- `CI.md` — CI, Renovate, and PR-policy behavior. Read before editing `.github/workflows/`,
-  `renovate.json`, or `prek.toml`.
