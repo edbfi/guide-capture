@@ -77,6 +77,14 @@ cd guide-capture
 prek install --hook-type pre-commit --hook-type commit-msg
 ```
 
+The hooks live in `.pre-commit-config.yaml`. CI runs the same checks on Apple Silicon macOS; run
+them locally with:
+
+```bash
+prek run --all-files --hook-stage manual
+scripts/smoke.sh
+```
+
 The enrolled golden is intentionally not stored in Git. An authorized operator must provision
 `private/runtime/sealed-goldens/android-phone.tar.zst.age` with the SHA-256 recorded in the pinned
 profile. Then run `bin/guide-capture doctor`; do not boot until every check passes.
