@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="docs/assets/guide-capture-logo.svg" alt="guide-capture logo" width="256" height="256">
+  <img src="docs/assets/guide-capture-logo.svg" alt="guide-capture logo" width="160" height="160">
 </p>
 <h1 align="center">guide-capture</h1>
 <p align="center"><strong>Reproducerbare Android-skærmbilleder til vejledninger</strong></p>
 <p align="center">
-  <a href="https://github.com/edbfi/guide-capture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat" alt="License: AGPL-3.0"></a>
+  <a href="https://github.com/edbfi/guide-capture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0--or--later-blue?style=flat" alt="License: AGPL-3.0-or-later"></a>
   <a href="https://git.savannah.gnu.org/cgit/bash.git/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
   <a href="https://github.com/python/cpython" title="CPython implementation source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python"></a>
   <a href="https://android.googlesource.com/platform/external/qemu" title="Android Emulator implementation source"><img src="https://img.shields.io/badge/Android_Emulator-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android Emulator"></a>
@@ -158,4 +158,6 @@ Set `GUIDE_CAPTURE_PRIVATE` to relocate the private tree.
 
 ## License
 
-[GNU AGPL v3](LICENSE) — © edbpede
+© edbpede. Original project code is licensed under the [GNU Affero General Public License](LICENSE),
+version 3 or (at your option) any later version (`AGPL-3.0-or-later`). Third-party components and
+tools retain their respective licenses and notices.
