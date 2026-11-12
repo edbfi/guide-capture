@@ -1,17 +1,16 @@
-<div align="center">
-	<h1>Guide Capture</h1>
-	<p><strong>Reproducerbare Android-skærmbilleder til vejledninger — fanget, redigeret og annoteret sikkert</strong></p>
-	<p>A disposable Android capture environment with explicit redaction, annotation, and human review.</p>
-</div>
+<p align="center">
+  <img src="docs/assets/guide-capture-logo.svg" alt="guide-capture logo" width="256" height="256">
+</p>
+<h1 align="center">guide-capture</h1>
+<p align="center"><strong>Reproducerbare Android-skærmbilleder til vejledninger</strong></p>
+<p align="center">
+  <a href="https://github.com/edbfi/guide-capture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat" alt="License: AGPL-3.0"></a>
+  <a href="https://git.savannah.gnu.org/cgit/bash.git/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
+  <a href="https://github.com/python/cpython" title="CPython implementation source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python"></a>
+  <a href="https://android.googlesource.com/platform/external/qemu" title="Android Emulator implementation source"><img src="https://img.shields.io/badge/Android_Emulator-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android Emulator"></a>
+</p>
 
-<div align="center">
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Bash](https://img.shields.io/badge/Bash-3.2%2B-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org)
-[![Android](https://img.shields.io/badge/Android-Emulator-3DDC84?logo=android&logoColor=white)](https://developer.android.com/studio/run/emulator)
-
-</div>
+A disposable Android capture environment with explicit redaction, annotation, and human review.
 
 ## Overview
 
