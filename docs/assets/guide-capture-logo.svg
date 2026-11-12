@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">guide-capture logo</title>
+  <desc id="desc">A phone inside crop corners with a numbered annotation dot.</desc>
+  <rect x="8" y="8" width="240" height="240" rx="48" fill="#eef6fb"/>
+  <g fill="none" stroke="#087e8b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M36 68V40h28M192 40h28v28M36 188v28h28M192 216h28v-28"/>
+  </g>
+  <rect x="79" y="43" width="98" height="170" rx="18" fill="#fff" stroke="#17354a" stroke-width="7"/>
+  <path d="M113 57h30M116 199h24" fill="none" stroke="#17354a" stroke-width="6" stroke-linecap="round"/>
+  <rect x="95" y="84" width="66" height="39" rx="7" fill="#d3e8f2"/>
+  <path d="M98 143h41M98 158h54M98 173h32" fill="none" stroke="#65879b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="177" cy="128" r="25" fill="#087e8b" stroke="#eef6fb" stroke-width="5"/>
+  <path d="m172 121 6-4v22m-6 0h12" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
