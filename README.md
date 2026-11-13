@@ -8,6 +8,7 @@
   <a href="https://git.savannah.gnu.org/cgit/bash.git/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&amp;logo=gnubash&amp;logoColor=white" alt="Bash"></a>
   <a href="https://github.com/python/cpython" title="CPython implementation source"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" alt="Python"></a>
   <a href="https://android.googlesource.com/platform/external/qemu" title="Android Emulator implementation source"><img src="https://img.shields.io/badge/Android_Emulator-3DDC84?style=flat&amp;logo=android&amp;logoColor=white" alt="Android Emulator"></a>
+  <a href="https://github.com/edbfi/guide-capture/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/edbfi/guide-capture/ci.yml?branch=main&amp;event=push&amp;label=CI&amp;style=flat" alt="CI"></a>
 </p>
 
 A disposable Android capture environment with explicit redaction, annotation, and human review.
